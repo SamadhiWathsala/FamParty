@@ -1,16 +1,35 @@
 # FamParty
 
-A new Flutter application.
+FamParty is an open source mobile application for personal event planing.🎉🎊
+
+This application powered by ⚡Flutter⚡ dart framework
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Install Flutter
 
-A few resources to get you started if this is your first Flutter project:
+    Follow the official [guide](https://flutter.dev/docs/get-started/install) from the flutter team.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+2. Run `flutter doctor`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    `flutter doctor`
+    In here you can find whether all are okay
+
+3. Go to the fam_party folder
+
+    `cd fam_party/`
+
+4.Install all the dependent flutter packages.
+
+    `flutter pub get`
+
+5.Run the application.
+
+    `flutter run`
+
+## Usable links
+
+- [Prototype](https://www.figma.com/file/9eTvBSxX8FchJ9P7xvklTv/Fam-Party?node-id=0%3A1)
+
+![alt screens](images/cover.png)
+
