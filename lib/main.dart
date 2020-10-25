@@ -1,3 +1,4 @@
+import 'package:famparty/screans/authenticate/authenticate.dart';
 import 'package:famparty/screans/home.dart';
 import 'package:flutter/material.dart';
 
@@ -21,7 +22,8 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: Home(),
+      home: Authenticate(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
